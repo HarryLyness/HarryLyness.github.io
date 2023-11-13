@@ -24,21 +24,21 @@
 
 ## Public Academic Projects [Work in progress]
 ### Python 
-- Y3 S2: Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88% https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion 
+- Y3 S2:<a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
 ### MATLAB 
-- Y3 S2: Numerical optimisation CW: Masters 90% https://github.com/HarryLyness/Numerical-Optimisation- 
-- Y3 S1: Numerical Solution to Evolutionary Equations CW: Masters (92%) https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework 
-- Y1 S2: Permutation Cipher (80%): https://github.com/HarryLyness/Permutation-Cipher-2021- 
+- Y3 S2: <a href="https://github.com/HarryLyness/Numerical-Optimisation-" target="_blank">Numerical optimisation CW: Masters 90%</a> 
+- Y3 S1: <a href="https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework" target="_blank"> Numerical Solution to Evolutionary Equations CW: Masters (92%)</a> 
+- Y1 S2: <a href="https://github.com/HarryLyness/Permutation-Cipher-2021-" target="_blank">Permutation Cipher (80%):</a>  
 ### R 
-- Y3 S1: Analysing Literature, Pollution and Crime Data (Data Science CW2) (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 
-- Y3 S1: Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%): https://github.com/HarryLyness/Data-Science-Coursework-1 
+- Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-2" target="_blank">Analysing Literature, Pollution and Crime Data (Data Science CW2) (84%):</a>
+- Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-1" target="_blank">Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%):</a>
 ### FORTRAN 90/95  
-- Y3 S2: Parallel Nonlinear thermal Conduction: Masters, 83% https://github.com/HarryLyness/MPI-FORTRAN-90-Nonlinear-Thermal-Conduction
-- Y3 S2: Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20, https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods
+- Y3 S2: <a href="https://github.com/HarryLyness/MPI-FORTRAN-90-Nonlinear-Thermal-Conduction" target="_blank">Parallel Nonlinear thermal Conduction: Masters, 83%</a> 
+- Y3 S2:  <a href="https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods" target="_blank">Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20</a>
 
 ## Public Non-Academic Projects [Work in progress]
 
- - (Y2-Y3) Summer 2022: Mini project which involved using Linear Modelling to show that Friends is a remarkable TV Show\Sitcom. NOTE: Completed after taking Statistics 2B and reading 'Linear Models with R - Julian J.Faraway'. https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom 
+ - (Y2-Y3) <a href="https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom" target="_blank">Summer 2022: Mini project which involved using Linear Modelling to show that Friends is a remarkable TV Show\Sitcom.</a> 
 
 ## Packages...
 

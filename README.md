@@ -1,30 +1,20 @@
-<p align="center">
- <img src="Make your README.png">
-</p>
-
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![VBA](https://img.shields.io/static/v1?logo=VBA&label=&message=VBA&color=36465D&logoColor=AAA&style=flat-square&link=)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-
+## Education:
+### University Of Bath, MMath(Hons) Mathematics, 2020-2024
+Relevant modules: Scientific Computing, Numerical Optimisation and Large Scale Systems, Classical 
+Statistical Inference, Topics in Bayesian Statistics, General Linear Models, Time Series, Machine 
+Learning, Applied Statistical Inference, Numerical Linear Algebra, Multivariate Data Analysis, Data 
+Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
+### Hereford Sixth Form College, 2018-2020
+- A Levels: Mathematics (A*), Geography (A), Physics (B)
+- AS Levels: Further Mathematics (A), Advanced Extension Award Mathematics (Merit)
+## Relevant Experience
+### Lloyds Banking Group, Actuarial Summer Intern in Capital Modelling Team (Uk, Bristol Harbourside Office)
+- Worked on developments to the Internal Capital Model (Based in R). Specifically, adaptations to improve efficiency, produce data visualization dashboards to facilitate data-driven decision making, and aid SCR reporting in line with regulations in Solvency II.
+- Optimised the With-Profits model recalibration data cleaning process to take 30 minutes instead of 3 days using VBA. Presented and communicated changes to team and senior management. 
+- Collaborated with interns in Bristol and Edinburgh to produce an interactive actuarial learning resource using PowerBI. Presented resource to senior actuarial management. 
 ## Public Academic Projects [Work in progress]
 ### Python 
-- Y3 S2:<a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
+- Y3 S2: <a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
 ### MATLAB 
 - Y3 S2: <a href="https://github.com/HarryLyness/Numerical-Optimisation-" target="_blank">Numerical optimisation CW: Masters 90%</a> 
 - Y3 S1: <a href="https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework" target="_blank"> Numerical Solution to Evolutionary Equations CW: Masters (92%)</a> 
@@ -34,17 +24,12 @@
 - Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-1" target="_blank">Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%):</a>
 ### FORTRAN 90/95  
 - Y3 S2: <a href="https://github.com/HarryLyness/MPI-FORTRAN-90-Nonlinear-Thermal-Conduction" target="_blank">Parallel Nonlinear thermal Conduction: Masters, 83%</a> 
-- Y3 S2:  <a href="https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods" target="_blank">Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20</a>
+- Y3 S2: <a href="https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods" target="_blank">Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20</a>
 
 ## Public Non-Academic Projects [Work in progress]
 
  - (Y2-Y3) <a href="https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom" target="_blank">Summer 2022: Mini project which involved using Linear Modelling to show that Friends is a remarkable TV Show\Sitcom.</a> 
 
-## Packages...
-
-- PYTHON: numpy, pandas, matplotlib, scipy (linkage, dendrogram, fcluster, fminbound, Voronoi, voronoi_plot_2d), sklearn (Kmeans, tree, KNeighborsClassifier, datasets, TfidfVectorizer)
-- R: tidyverse (ggplot2, dyplr, tidyr, readr, purr, tibble, stringr, forcats), broom, patchwork, lubridate, gridExtra, effects, tidytext, worldcloud, widyr, sf, ggmap, spatstat, sp, gstat, maptools, spdep, quantmod\\
-- FORTRAN90: blas, lapack, mpi
 
 
 <div id="badges">
@@ -52,7 +37,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLyness&hide_progress=true) -->
 

@@ -1,36 +1,45 @@
-## Education:
-### University Of Bath, MMath(Hons) Mathematics, 2020-2024
+# Education:
+
+## University Of Bath, MMath(Hons) Mathematics, 2020-2024
+
 Relevant modules: Scientific Computing, Numerical Optimisation and Large Scale Systems, Classical 
 Statistical Inference, Topics in Bayesian Statistics, General Linear Models, Time Series, Machine 
 Learning, Applied Statistical Inference, Numerical Linear Algebra, Multivariate Data Analysis, Data 
 Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
-### Hereford Sixth Form College, 2018-2020
-- A Levels: Mathematics (A*), Geography (A), Physics (B)
-- AS Levels: Further Mathematics (A), Advanced Extension Award Mathematics (Merit)
-## Relevant Experience
-### Lloyds Banking Group, Actuarial Summer Intern in Capital Modelling Team (Uk, Bristol Harbourside Office)
+
+# Relevant Experience
+
+## Lloyds Banking Group, Actuarial Summer Intern in Capital Modelling Team (Uk, Bristol Harbourside Office)
+
 - Worked on developments to the Internal Capital Model (Based in R). Specifically, adaptations to improve efficiency, produce data visualization dashboards to facilitate data-driven decision making, and aid SCR reporting in line with regulations in Solvency II.
 - Optimised the With-Profits model recalibration data cleaning process to take 30 minutes instead of 3 days using VBA. Presented and communicated changes to team and senior management. 
-- Collaborated with interns in Bristol and Edinburgh to produce an interactive actuarial learning resource using PowerBI. Presented resource to senior actuarial management. 
-## Public Academic Projects [Work in progress]
-### Python 
+- Collaborated with interns in Bristol and Edinburgh to produce an interactive actuarial learning resource using PowerBI. Presented resource to senior actuarial management.
+ 
+# Public Academic Projects [Work in progress]
+
+## Python 
+
 - Y3 S2: <a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
-### MATLAB 
+
+## MATLAB 
+
 - Y3 S2: <a href="https://github.com/HarryLyness/Numerical-Optimisation-" target="_blank">Numerical optimisation CW: Masters 90%</a> 
 - Y3 S1: <a href="https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework" target="_blank"> Numerical Solution to Evolutionary Equations CW: Masters (92%)</a> 
-- Y1 S2: <a href="https://github.com/HarryLyness/Permutation-Cipher-2021-" target="_blank">Permutation Cipher (80%):</a>  
-### R 
+- Y1 S2: <a href="https://github.com/HarryLyness/Permutation-Cipher-2021-" target="_blank">Permutation Cipher (80%):</a>
+
+## R 
+
 - Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-2" target="_blank">Analysing Literature, Pollution and Crime Data (Data Science CW2) (84%):</a>
 - Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-1" target="_blank">Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%):</a>
-### FORTRAN 90/95  
+
+## FORTRAN 90/95  
+
 - Y3 S2: <a href="https://github.com/HarryLyness/MPI-FORTRAN-90-Nonlinear-Thermal-Conduction" target="_blank">Parallel Nonlinear thermal Conduction: Masters, 83%</a> 
 - Y3 S2: <a href="https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods" target="_blank">Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20</a>
 
-## Public Non-Academic Projects [Work in progress]
+# Public Non-Academic Projects [Work in progress]
 
  - (Y2-Y3) <a href="https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom" target="_blank">Summer 2022: Mini project which involved using Linear Modelling to show that Friends is a remarkable TV Show\Sitcom.</a> 
-
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/harry-lyness/">

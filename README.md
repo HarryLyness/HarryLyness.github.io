@@ -18,7 +18,7 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 # Public Academic Projects [Work in progress]
 
 ## Python 
-
+- Y4 S1: <a href="https://github.com/HarryLyness/Machine-Learning-2-CW" target="_blank">Machine Learning CW 2 (Classification Network on Iris Dataset): 92.5%</a>
 - Y3 S2: <a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
 
 ## MATLAB 

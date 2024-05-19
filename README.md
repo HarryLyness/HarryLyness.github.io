@@ -2,6 +2,8 @@
 
 ## University Of Bath, MMath(Hons) Mathematics, 2020-2024
 
+Dissertation: Low Rank Neural Networks
+
 Relevant modules: Scientific Computing, Numerical Optimisation and Large Scale Systems, Classical 
 Statistical Inference, Topics in Bayesian Statistics, General Linear Models, Time Series, Machine 
 Learning, Applied Statistical Inference, Numerical Linear Algebra, Multivariate Data Analysis, Data 
@@ -18,7 +20,8 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 # Public Academic Projects [Work in progress]
 
 ## Python 
-- Y4 S1: <a href="https://github.com/HarryLyness/Machine-Learning-2-CW" target="_blank">Machine Learning CW 2 (Classification Network on Iris Dataset): 92.5%</a>
+- Y4 S1: <a href="https://github.com/HarryLyness/Machine-Learning-2-CW" target="_blank">Machine Learning 2 CW1 (Classification Network on Iris Dataset): 92.5%</a>
+- Y4 S1: <a href="https://github.com/HarryLyness/Image-Steganography-Scheme-using-U-Net-architecture" target="_blank">Machine Learning 2 CW2 (Image Steganography Scheme Using U Net Architecture): 78%</a>
 - Y3 S2: <a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
 
 ## MATLAB 
@@ -28,7 +31,9 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 - Y1 S2: <a href="https://github.com/HarryLyness/Permutation-Cipher-2021-" target="_blank">Permutation Cipher (80%):</a>
 
 ## R 
-
+- Y4 S2: <a href="https://github.com/HarryLyness/Time-series-coursework" target="_blank">Time Series CW: 92%</a> 
+- Y4 S2: <a href="https://github.com/HarryLyness/Optimizing-Public-Policy-Planning-using-Data-Analysis " target="_blank">Optimizing Public Policy Planning using Data Analysis (Applied Data Science CW1): 80%</a> 
+- Y4 S1: <a href="https://github.com/HarryLyness/Applied-Statistical-Inference " target="_blank">Applied Statistical Inference CW: Masters 83%</a> 
 - Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-2" target="_blank">Analysing Literature, Pollution and Crime Data (Data Science CW2) (84%):</a>
 - Y3 S1: <a href="https://github.com/HarryLyness/Data-Science-Coursework-1" target="_blank">Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%):</a>
 
@@ -51,6 +56,7 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 
 
 <!--
+<a href="" target="_blank"></a> 
 asdlkmalskdm
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)

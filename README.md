@@ -2,7 +2,7 @@
 
 ## University Of Bath, MMath(Hons) Mathematics, 2020-2024
 
-Dissertation: Low Rank Neural Networks
+Dissertation: Investigations into Low Rank Adaptation (LoRA).
 
 Relevant modules: Scientific Computing, Numerical Optimisation and Large Scale Systems, Classical 
 Statistical Inference, Topics in Bayesian Statistics, General Linear Models, Time Series, Machine 
@@ -14,7 +14,7 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 ## Lloyds Banking Group, Actuarial Summer Intern in Capital Modelling Team (Uk, Bristol Harbourside Office)
 
 - Worked on developments to the Internal Capital Model (Based in R). Specifically, adaptations to improve efficiency, produce data visualization dashboards to facilitate data-driven decision making, and aid SCR reporting in line with regulations in Solvency II.
-- Optimised the With-Profits model recalibration data cleaning process to take 30 minutes instead of 3 days using VBA. Presented and communicated changes to team and senior management. 
+- Optimised the With-Profits model recalibration data cleaning process using VBA. Presented and communicated changes to team and senior management. 
 - Collaborated with interns in Bristol and Edinburgh to produce an interactive actuarial learning resource using PowerBI. Presented resource to senior actuarial management.
  
 # Public Academic Projects [Work in progress]
@@ -24,13 +24,8 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 - Y4 S1: <a href="https://github.com/HarryLyness/Image-Steganography-Scheme-using-U-Net-architecture" target="_blank">Machine Learning 2 CW2 (Image Steganography Scheme Using U Net Architecture): 78%</a>
 - Y3 S2: <a href="https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion" target="_blank">Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88%</a>
 
-## MATLAB 
-
-- Y3 S2: <a href="https://github.com/HarryLyness/Numerical-Optimisation-" target="_blank">Numerical optimisation CW: Masters 90%</a> 
-- Y3 S1: <a href="https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework" target="_blank"> Numerical Solution to Evolutionary Equations CW: Masters (92%)</a> 
-- Y1 S2: <a href="https://github.com/HarryLyness/Permutation-Cipher-2021-" target="_blank">Permutation Cipher (80%):</a>
-
 ## R 
+- Y4 S2: <a href="https://github.com/HarryLyness/Generalised-Additive-Models-Coursework" target="_blank">Generalised additive models CW: (TBA 4th of jul)%</a> 
 - Y4 S2: <a href="https://github.com/HarryLyness/Time-series-coursework" target="_blank">Time Series CW: 92%</a> 
 - Y4 S2: <a href="https://github.com/HarryLyness/Optimizing-Public-Policy-Planning-using-Data-Analysis " target="_blank">Optimizing Public Policy Planning using Data Analysis (Applied Data Science CW1): 80%</a> 
 - Y4 S1: <a href="https://github.com/HarryLyness/Applied-Statistical-Inference " target="_blank">Applied Statistical Inference CW: Masters 83%</a> 
@@ -41,6 +36,12 @@ Science, Applied Data Science, Numerical Solution to Evolutionary Equations.
 
 - Y3 S2: <a href="https://github.com/HarryLyness/MPI-FORTRAN-90-Nonlinear-Thermal-Conduction" target="_blank">Parallel Nonlinear thermal Conduction: Masters, 83%</a> 
 - Y3 S2: <a href="https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods" target="_blank">Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20</a>
+
+## MATLAB 
+
+- Y3 S2: <a href="https://github.com/HarryLyness/Numerical-Optimisation-" target="_blank">Numerical optimisation CW: Masters 90%</a> 
+- Y3 S1: <a href="https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework" target="_blank"> Numerical Solution to Evolutionary Equations CW: Masters (92%)</a> 
+- Y1 S2: <a href="https://github.com/HarryLyness/Permutation-Cipher-2021-" target="_blank">Permutation Cipher (80%):</a>
 
 # Public Non-Academic Projects [Work in progress]
 
@@ -77,7 +78,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+to take 30 minutes instead of 3 days
 # Hi, I'm Harry 👋
 I'm working towards a Masters Degree in Mathematics. Particular areas of interests include numerical optimisation, machine learning and data science. 
 
